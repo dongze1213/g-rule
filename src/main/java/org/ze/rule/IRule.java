@@ -1,4 +1,4 @@
-package com.whale.rule;
+package org.ze.rule;
 
 import java.util.Map;
 

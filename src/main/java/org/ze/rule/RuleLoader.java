@@ -1,11 +1,8 @@
-package com.whale.rule;
+package org.ze.rule;
 
 import groovy.util.GroovyScriptEngine;
 import groovy.util.ResourceException;
 import groovy.util.ScriptException;
-import org.springframework.beans.factory.annotation.Value;
-import org.springframework.context.annotation.Bean;
-import sun.security.jca.GetInstance;
 
 import java.io.IOException;
 

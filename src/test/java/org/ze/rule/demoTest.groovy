@@ -1,11 +1,9 @@
-package com.whale.rule
+package org.ze.rule
 
-import com.whale.RuleApplication
-import org.junit.runner.RunWith
+
 import org.springframework.beans.factory.annotation.Autowired
 import org.springframework.boot.test.context.SpringBootTest
-import org.springframework.stereotype.Component
-import org.springframework.test.context.web.WebAppConfiguration
+import org.ze.RuleApplication
 
 
 @SpringBootTest(classes = RuleApplication.class, webEnvironment = SpringBootTest.WebEnvironment.MOCK)

@@ -1,9 +1,9 @@
-package rules
+package org.ze.demo
 
 import org.ze.rule.IRule
 
 
-class Rule1 implements IRule
+class Demo implements IRule
 {
 
     Map<String, Object> loadRules() {
